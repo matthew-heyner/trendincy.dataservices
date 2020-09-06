@@ -1,0 +1,9 @@
+{
+  "name": "trendincy.dataservices",
+  "version": "1.0.0",
+  "description": "For use in connecting to and maintaining data with MongoDB",
+  "main": "index.js",
+  "author": "Matthew Heyner <mheyner@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
